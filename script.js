@@ -1,5 +1,5 @@
 
-        import * as THREE from 'three';
+        // import * as THREE from 'three';
 		import { FontLoader } from './examples/jsm/loaders/FontLoader.js'
 		import { TextGeometry } from './examples/jsm/geometries/TextGeometry.js';
 		// import { GUI } from './examples/jsm/libs/lil-gui.module.min.js';
